@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: rose
+theme: starter-blog
 day_night: true
 font: ''
 font_size: L
@@ -22,12 +22,12 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: true
+  highlight_active_link: false
 
 # Localization
 
@@ -50,7 +50,7 @@ edit_page:
     post: false
 show_related:
   post: true
-email: ''
+email: test@example.org
 sharing_image: ''
 reading_time: true
 section_pager: true
@@ -68,10 +68,10 @@ avatar:
 comments:
   provider: ''
   commentable:
-    post: false
+    post: true
   disqus:
     shortname: ''
-    show_count: false
+    show_count: true
   commento:
     url: ''
 search:
