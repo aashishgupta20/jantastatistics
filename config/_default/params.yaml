@@ -22,7 +22,7 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: c
+  align: r
   show_logo: false
   show_language: false
   show_day_night: true
@@ -50,7 +50,7 @@ edit_page:
     post: false
 show_related:
   post: true
-email: test@example.org
+email: ''
 sharing_image: ''
 reading_time: true
 section_pager: true
