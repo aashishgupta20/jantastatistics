@@ -1,14 +1,13 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Hi! My name is Aashish Gupta. I am a demographer. In Hindi, demography is जन-सांख्यिकी, or people statistics. Hence this blog.  
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: University of Pennsylvania
+  url: "https://web.sas.upenn.edu/aashishg/"
+# role: 
 social:
 - icon: envelope
   icon_pack: fas
-  link: about/#contact
+  link: 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -16,9 +15,13 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Aashish Gupta
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thank you for visiting my blog!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have a PhD in Demography and Sociology from the University of Pennsylvania. Starting September 2021, I will be a David E. Bell Fellow at the Harvard Center for Population and Development Studies.
+
+My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population and the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. I was awarded the Dorothy Thomas Award by the Population Association of America in 2021.
+
+
