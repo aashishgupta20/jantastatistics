@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: people-stats 
-subtitle: 'a blog about demography (and other things) in the world's largest democracy.'
+subtitle: ''
 
 design:
   background:
