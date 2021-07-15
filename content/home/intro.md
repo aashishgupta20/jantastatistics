@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: people-stats 
-subtitle: 'a blog about demography.'
+subtitle: 'reducing people to numbers. or words.'
 
 design:
   background:
