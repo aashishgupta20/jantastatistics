@@ -28,12 +28,15 @@ education:
   - course: PhD in Demography and Sociology
     institution: University of Pennsylvania
     year: 2021
-  - course: BSc in Public Administration Science
-    institution: Erasmus School of Social and Behavioral Sciences
-    year: 2014
-  - course: LLB in Law
-    institution: Erasmus School of Law
-    year: 2014
+  - course: MA (5-year integrated) in Development Studies
+    institution: Indian Institute of Technology Madras
+    year: 2011
+interests:
+- Demography
+- Health
+- Environment
+- Inequality
+- Social policy
 
 
 ---
