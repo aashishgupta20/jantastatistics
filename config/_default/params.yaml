@@ -22,12 +22,12 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: c
+  align: l
   show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -50,7 +50,7 @@ edit_page:
     post: false
 show_related:
   post: true
-email: test@example.org
+email: ''
 sharing_image: ''
 reading_time: true
 section_pager: true
@@ -68,10 +68,10 @@ avatar:
 comments:
   provider: ''
   commentable:
-    post: true
+    post: false
   disqus:
     shortname: ''
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:
