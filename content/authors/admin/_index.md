@@ -5,15 +5,21 @@ organizations:
   url: "https://web.sas.upenn.edu/aashishg/"
 # role: 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 
+#- icon: envelope
+#  icon_pack: fas
+#  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/aashishg_
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aashishgupta20
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=vuhO9dAAAAAJ&view_op=list_works&sortby=pubdate
+- icon: link 
+  icon_pack: fas
+  link: https://web.sas.upenn.edu/aashishg/
 superuser: true
 title: Aashish Gupta
 ---
