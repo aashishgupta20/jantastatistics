@@ -22,12 +22,28 @@ social:
   link: https://web.sas.upenn.edu/aashishg/
 superuser: true
 title: Aashish Gupta
+
+education:
+  courses:
+  - course: PhD in Demography and Sociology
+    institution: University of Pennsylvania
+    year: 2021
+  - course: BSc in Public Administration Science
+    institution: Erasmus School of Social and Behavioral Sciences
+    year: 2014
+  - course: LLB in Law
+    institution: Erasmus School of Law
+    year: 2014
+
+
 ---
 
 Thank you for visiting my blog!
 
 I have a PhD in Demography and Sociology from the University of Pennsylvania. Starting September 2021, I will be a David E. Bell Fellow at the Harvard Center for Population and Development Studies.
 
-My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population and the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. I was awarded the Dorothy Thomas Award by the Population Association of America in 2021.
+My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population and the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. 
+
+I was awarded the Dorothy Thomas Award by the Population Association of America in 2021.
 
 
