@@ -47,7 +47,7 @@ I have a PhD in Demography and Sociology from the University of Pennsylvania. St
 
 My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population. As well as the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. I was awarded the Dorothy Thomas Award by the Population Association of America in 2021.
 
-This blog is more or less in the genre of brief notes meant for a small set of people who are interested in these things. In Hindi, demography is जन-सांख्यिकी, or people statistics. The subtitle, "adventures in 'reducing people to numbers.' and words." is not meant to be taken seriously. The other subtitle I considered was "demography in the world's largest democracy". But that is more ambitious. And I am really not sure about the extent to which this blog would be about demography. We will see.
+This blog is more or less in the genre of brief notes meant for a small set of people who are interested in these things. In Hindi, demography is जन-सांख्यिकी, or people statistics. The original subtitle for this blog was "adventures in 'reducing people to numbers.' and words." But "demography (and other things) in the largest democracy" is perhaps more serious. I am still not sure about the extent to which this blog would be about demography. We will see.
 
 Over the years, I have learnt a lot from comments and feedback. Please do feel free to write to me if you have any comments, disagreements, or suggestions. Thank you!  
 

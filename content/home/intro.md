@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: 'people-stats' 
-subtitle: 'demography (and other things) in the world\`s largest democracy.'
+subtitle: 'demography (and other things) in the largest democracy.'
 
 design:
   background:
