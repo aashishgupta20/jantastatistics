@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: people-stats 
+title: 'people-stats' 
 subtitle: 'demography in the world's largest democracy.'
 
 design:
