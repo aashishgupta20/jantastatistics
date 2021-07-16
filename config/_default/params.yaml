@@ -6,7 +6,7 @@
 # Appearance
 
 theme: ocean
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
@@ -15,8 +15,8 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'A demography blog by Aashish Gupta'
+twitter: 'https://twitter.com/aashishg_'
 
 # Site header
 
