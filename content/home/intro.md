@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: people-stats 
-subtitle: 'adventures in reducing people to numbers. and words.'
+subtitle: 'adventures in "reducing people to numbers." and words.'
 
 design:
   background:
