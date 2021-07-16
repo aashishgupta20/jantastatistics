@@ -2,7 +2,7 @@
 date: "2021-07-16"
 diagram: true
 highlight: true
-image:![](ratu_lamp2.jpg)
+image:![](/ratu_lamp2.jpg)
   caption: ''
   placement: 3
 math: true
