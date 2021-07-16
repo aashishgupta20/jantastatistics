@@ -3,7 +3,7 @@ date: "2021-07-16"
 diagram: true
 highlight: true
 image:
-  caption: '(/ratu_lamp.jpg)'
+  caption: '(https://github.com/aashishgupta20/jantastatistics/blob/main/content/post/Hi!/ratu_lamp2.jpg)'
   placement: 3
 math: true
 title: Hi!
