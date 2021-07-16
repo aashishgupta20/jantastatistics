@@ -13,6 +13,6 @@ subtitle: 'reducing people to numbers. or words.'
 
 design:
   background:
-    color: '#3f51b5'
+    color: '#4353ab'
     text_color_light: true
 ---
