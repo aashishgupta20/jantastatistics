@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: people-stats 
-subtitle: 'adventures in "reducing people to numbers." and words.'
+title: '' 
+subtitle: ''
 
 design:
   background:
