@@ -1,12 +1,18 @@
 ---
-date: "2019-07-12"
-diagram: true
-highlight: true
-image:
-  caption: ''
-  placement: 3
-math: true
 title: Hi!
+date: '2021-07-16'
+slug: hi!
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+lastmod: '2021-07-16T15:36:46-04:00'
+featured: yes
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
 ---
 
 
