@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: 'A demography blog by Aashish Gupta'
+description: 'adventures in reducing people to numbers. or words.'
 twitter: 'https://twitter.com/aashishg_'
 
 # Site header
@@ -25,7 +25,7 @@ main_menu:
   align: r
   show_logo: false
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: false
 
@@ -54,7 +54,7 @@ email: ''
 sharing_image: ''
 reading_time: true
 section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
