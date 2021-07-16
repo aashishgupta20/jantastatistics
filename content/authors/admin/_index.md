@@ -1,5 +1,5 @@
 ---
-bio: Hi! My name is Aashish Gupta. I am a demographer. In Hindi, demography is जन-सांख्यिकी, or people statistics. Hence this blog.  
+bio: In Hindi, demography is जन-सांख्यिकी, or people statistics. Hence this blog.  
 organizations:
 - name: University of Pennsylvania
   url: "https://web.sas.upenn.edu/aashishg/"
