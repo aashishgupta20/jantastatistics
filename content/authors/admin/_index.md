@@ -43,7 +43,7 @@ interests:
 
 Thank you for visiting my blog! 
 
-I have a PhD in Demography and Sociology from the University of Pennsylvania. Starting September 2021, I will be a David E. Bell Fellow at the Harvard Center for Population and Development Studies. I have been associated with the [research institute of compassionate economics](https://riceinstitute.org/), where I am a research fellow. I also volunteer with other social movements. You may want to check out the work of [the right to food campaign](http://www.righttofoodcampaign.in/). My more academic website is [here](https://web.sas.upenn.edu/aashishg/). 
+I have a PhD in Demography and Sociology from the University of Pennsylvania. Starting September 2021, I will be a David E. Bell Fellow at the Harvard Center for Population and Development Studies. I have been associated with the [research institute of compassionate economics](https://riceinstitute.org/), where I am a research fellow. I also volunteer with other social initiatives. My more academic website is [here](https://web.sas.upenn.edu/aashishg/). 
 
 My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population and the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. 
 
