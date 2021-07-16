@@ -2,8 +2,8 @@
 date: "2021-07-16"
 diagram: true
 highlight: true
-image:
-  caption: '[](https://github.com/aashishgupta20/jantastatistics/blob/main/content/post/Hi!/ratu_lamp2.jpg)'
+image:![](ratu_lamp2.jpg)
+  caption: ''
   placement: 3
 math: true
 title: Hi!
