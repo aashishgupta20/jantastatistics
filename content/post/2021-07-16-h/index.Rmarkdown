@@ -8,8 +8,8 @@ subtitle: ''
 summary: ''
 lastmod: '2021-07-16T15:36:46-04:00'
 featured: yes
-image: 
-  caption: 'Image credit: [**AG 2012**](https://raw.githubusercontent.com/aashishgupta20/jantastatistics/main/content/post/2021-07-16-h/ratu_lamp.jpg)'
+image: ![](ratu_lamp.jpg)
+  caption: ''
   focal_point: ''
   preview_only: no
 projects: []
