@@ -10,3 +10,6 @@ main:
   - name: about
     url: about/
     weight: 20
+  - name: posts 
+    url: posts
+    weight: 30
