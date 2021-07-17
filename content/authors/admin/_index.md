@@ -49,6 +49,6 @@ My work has received support from the the Civil Registration and Vital Statistic
 
 This blog is more or less in the genre of brief notes meant for a small set of people. In Hindi, demography is जन-सांख्यिकी, or people statistics. The original subtitle for this blog was "adventures in 'reducing people to numbers.' and words." But "demography (and other things) in the largest democracy" is perhaps more serious. I am still not sure about the extent to which this blog would be about demography. We will see.
 
-Over the years, I have learnt a lot from comments, disagrreements, and feedback. Please do feel free to write to me if you have any. Thank you!  
+Over the years, I have learnt a lot from comments, disagreements, and feedback. Please do feel free to write to me if you have any. Thank you!  
 
 
