@@ -7,9 +7,9 @@ main:
   - name: people-stats
     url: /
     weight: 10
+  - name: posts 
+    url: post/
+    weight: 20
   - name: about
     url: about/
-    weight: 20
-  - name: posts 
-    url: posts
     weight: 30
