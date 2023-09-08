@@ -43,7 +43,7 @@ interests:
 
 Thank you for visiting my blog! 
 
-I have a PhD in Demography and Sociology from the University of Pennsylvania. Starting September 2021, I will be a David E. Bell Fellow at the Harvard Center for Population and Development Studies. I have been associated with the [research institute of compassionate economics](https://riceinstitute.org/), where I am a research fellow. I also volunteer with other social initiatives. An (even more) academic website is [here](https://web.sas.upenn.edu/aashishg/). 
+I have a PhD in Demography and Sociology from the University of Pennsylvania. I am currently a Marie-Sklodowska Curie Fellow at the University of Oxford. Before this, I was a David E. Bell Fellow at the Harvard Center for Population and Development Studies. I have been associated with the [research institute of compassionate economics](https://riceinstitute.org/), where I am a research fellow. I also volunteer with other social initiatives. An (even more) academic website is [here](https://web.sas.upenn.edu/aashishg/). 
 
 My work has received support from the the Civil Registration and Vital Statistics Fellowship of the International Union for the Scientific Study of Population. As well as the Marie Skłodowska-Curie Fellowship (at Oxford University) of the European Commission. I was awarded the Dorothy Thomas Award by the Population Association of America in 2021. I am very grateful to these organizations. 
 
